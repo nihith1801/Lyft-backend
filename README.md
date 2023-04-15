@@ -1,2 +1,1 @@
-# Starter Repo
-This repo has everything you need to get started on the program, good luck!
+Lyft back-end  virtual internship with all tasks done
